@@ -1,6 +1,6 @@
 # go项目实战 blog_service
 
-![image-20220716011358924](md_img\image-20220716011358924.png)
+![image-20220716011358924](https://github.com/0x401000Nu1l/golang_blog_service/blob/main/md_img/image-20220716011358924.png)
 
 原书中描述如上 
 
@@ -8,13 +8,13 @@
 
 但是尝试了几次之后都无法正确测试
 
-![image-20220716011543679](md_img\image-20220716011543679.png)
+![image-20220716011543679](https://github.com/0x401000Nu1l/golang_blog_service/blob/main/md_img/image-20220716011543679.png)
 
 结果如上
 
 在确定代码无误的情况下，我重新审计了代码
 
-![image-20220716011627893](md_img\image-20220716011627893.png)
+![image-20220716011627893](https://github.com/0x401000Nu1l/golang_blog_service/blob/main/md_img/image-20220716011627893.png)
 
 发现了GET函数在不同参数会对应不同的操作
 
@@ -26,13 +26,13 @@ curl -v http://127.0.0.1:8080/api/v1/articles/1
 
 显然是后者，那么调用的即是
 
-![image-20220716011745412](md_img\image-20220716011745412.png)
+![image-20220716011745412](https://github.com/0x401000Nu1l/golang_blog_service/blob/main/md_img/image-20220716011745412.png)
 
 List方法
 
 所以在List方法下面加测试代码，测试之后果然成功
 
-![image-20220716011825242](md_img\image-20220716011825242.png)
+![image-20220716011825242](https://github.com/0x401000Nu1l/golang_blog_service/blob/main/md_img/image-20220716011825242.png)
 
 继续尝试测试GET方法
 
@@ -44,5 +44,5 @@ curl -v http://127.0.0.1:8080/api/v1/articles
 ```
 
 发现测试成功
-![image-20220716011913790](md_img\image-20220716011913790.png)
+![image-20220716011913790](https://github.com/0x401000Nu1l/golang_blog_service/blob/main/md_img/image-20220716011913790.png)
 
