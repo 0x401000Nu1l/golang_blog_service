@@ -1,1 +1,8 @@
 2022/07/15 16:43:46 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1657874626114811500}
+2022/07/16 00:38:45 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1657903125725753000}
+2022/07/16 00:48:14 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1657903694062788000}
+2022/07/16 01:00:43 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1657904443784712800}
+2022/07/16 01:02:44 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1657904564735199800}
+2022/07/16 01:06:10 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1657904770450756500}
+2022/07/16 01:11:01 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1657905061406815200}
+2022/07/16 01:12:24 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1657905144401375500}
