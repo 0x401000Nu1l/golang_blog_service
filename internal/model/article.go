@@ -1,6 +1,8 @@
 package model
 
-type Articles struct {
+import "blog_service/pkg/app"
+
+type Article struct {
 	*Model
 	Title         string `json:"title"`
 	Desc          string `json:"desc"`
@@ -9,6 +11,11 @@ type Articles struct {
 	State         uint8  `json:"state"`
 }
 
-func (a Articles) TableName() string {
+func (a Article) TableName() string {
 	return "blog_article"
+}
+
+type ArticleSwagger struct {
+	List  []*Article
+	Pager *app.Pager
 }

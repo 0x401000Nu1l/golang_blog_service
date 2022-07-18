@@ -32,6 +32,10 @@ func init() {
 	}
 }
 
+// @title 博客系统
+// @Version 1.0
+// @description dx
+// @termsOfService   dxc
 func main() {
 	gin.SetMode(global.ServerSetting.RunMode)
 	router := routers.NewRouter()
