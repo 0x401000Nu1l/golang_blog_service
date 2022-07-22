@@ -9,3 +9,7 @@
 2022/07/18 16:47:00 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658134020682644600}
 2022/07/18 16:49:46 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658134186565969200}
 2022/07/18 19:27:29 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658143649127379000}
+2022/07/22 20:59:25 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658494765058909800}
+2022/07/22 21:05:37 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658495137075405700}
+2022/07/22 21:27:09 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658496429291826400}
+2022/07/22 21:29:17 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"error","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1658496557907253600}

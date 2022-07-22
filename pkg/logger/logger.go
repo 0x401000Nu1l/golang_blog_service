@@ -190,8 +190,8 @@ func (l *Logger) Error(ctx context.Context, v ...interface{}) {
 	l.WithContext(ctx).WithTrace().Output(LevelError, fmt.Sprint(v...))
 }
 
-func (l *Logger) Errorf(ctx context.Context, format string, v ...interface{}) {
-	l.WithContext(ctx).WithTrace().Output(LevelError, fmt.Sprintf(format, v...))
+func (l *Logger) Errorf(format string, v ...interface{}) {
+	l.Output(LevelError, fmt.Sprintf(format, v...))
 }
 
 func (l *Logger) Fatal(ctx context.Context, v ...interface{}) {
