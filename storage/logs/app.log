@@ -1,15 +1,8 @@
-2022/07/15 16:43:46 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1657874626114811500}
-2022/07/16 00:38:45 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1657903125725753000}
-2022/07/16 00:48:14 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1657903694062788000}
-2022/07/16 01:00:43 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1657904443784712800}
-2022/07/16 01:02:44 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1657904564735199800}
-2022/07/16 01:06:10 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1657904770450756500}
-2022/07/16 01:11:01 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1657905061406815200}
-2022/07/16 01:12:24 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1657905144401375500}
-2022/07/18 16:47:00 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658134020682644600}
-2022/07/18 16:49:46 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658134186565969200}
-2022/07/18 19:27:29 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658143649127379000}
-2022/07/22 20:59:25 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658494765058909800}
-2022/07/22 21:05:37 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658495137075405700}
-2022/07/22 21:27:09 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658496429291826400}
-2022/07/22 21:29:17 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"error","message":"app.BindAndValid errs: State必须是[0 1]中的一个","time":1658496557907253600}
+2022/07/26 00:30:22 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658766622298313700}
+2022/07/26 00:32:51 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658766771178143800}
+2022/07/26 00:35:28 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658766928862090400}
+2022/07/26 00:39:10 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658767150380555500}
+2022/07/26 00:39:19 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为1个字符","time":1658767159332773300}
+2022/07/26 00:51:15 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658767875369597200}
+2022/07/26 00:51:27 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为1个字符","time":1658767887305069100}
+2022/07/26 00:52:01 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658767921403332100}

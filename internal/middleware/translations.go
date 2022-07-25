@@ -16,6 +16,9 @@ func Translations() gin.HandlerFunc {
 	return func(c *gin.Context) {
 		uni := ut.New(en.New(), zh.New(), zh_Hant_TW.New())
 		locale := c.GetHeader("locale")
+		if locale == "" {
+			locale = "zh"
+		}
 		trans, _ := uni.GetTranslator(locale)
 		v, ok := binding.Validator.Engine().(*validator.Validate)
 		if ok {
