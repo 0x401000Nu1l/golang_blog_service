@@ -6,3 +6,4 @@
 2022/07/26 00:51:15 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658767875369597200}
 2022/07/26 00:51:27 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"error","message":"app.BindAndValid errs: Name长度必须至少为1个字符","time":1658767887305069100}
 2022/07/26 00:52:01 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658767921403332100}
+2022/07/26 01:09:32 {"callers":["e:/mycode/golang/blog_service/main.go :22 main.init.0"],"level":"info","message":"eddycjy: goda/blog_service","time":1658768972578962900}
